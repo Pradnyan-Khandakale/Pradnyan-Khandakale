@@ -1,5 +1,5 @@
 # 💫 About Me:
-Driven Computer Science student with practical expertise in data science, machine learning, and DevOps workflows.<br>Proficient in building and deploying scalable applications using Python, FastAPI/Django, and containerization tools like<br>Docker, with experience in CI/CD pipelines. Demonstrated ability to analyze data, develop machine learning models, and<br>design efficient backend systems. Familiar with full stack development using the MERN stack, with a foundational<br><br>understanding of frontend integration. Passionate about leveraging data-driven solutions and automation to solve real-<br>world problems and enhance system performance.
+Driven Computer Science student with practical expertise in data science, machine learning, and DevOps workflows.<br>Proficient in building and deploying scalable applications using Python, FastAPI/Django, and containerization tools like <br>Docker, with experience in CI/CD pipelines. Demonstrated ability to analyze data, develop machine learning models, and<br>design efficient backend systems. Familiar with full stack development using the MERN stack, with a foundational<br>understanding of frontend integration. Passionate about leveraging data-driven solutions and automation to solve real-<br>world problems and enhance system performance.
 
 
 ## 🌐 Socials:
